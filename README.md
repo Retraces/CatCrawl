@@ -18,7 +18,7 @@ ____|____|____|____|____|_  = (^ Y ^) =  _|____|____|____|____|__
 
 ```python
 cd (Location of catcrawl.py)
-py catcrawl.py
+python catcrawl.py
 ???
 Profit
 ```
