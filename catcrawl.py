@@ -25,7 +25,7 @@ print(Fore.GREEN + r"""
 googleinput = input(Fore.MAGENTA + 'Would you like to crawl Google? (1/0): ')
 baiduinput = input(Fore.BLUE + 'Would you like to crawl Baidu? (1/0): ')
 binginput = input(Fore.CYAN + 'Would you like to crawl Bing? (1/0): ')
-image_amount = int(input(Fore.GREEN + 'How many images in do you want to crawl per engine?: '))
+image_amount = int(input(Fore.GREEN + 'How many images do you want to crawl per engine?: '))
 image_keyword = input(Fore.GREEN + 'What keyword would you like to use?: ')
 folder = input(Fore.RED + 'What do you want your folder name to be? (This will be in the same folder as your .py file): ')
 
